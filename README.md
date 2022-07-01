@@ -5,6 +5,6 @@ Run code with command **node index.js**
 
 **Example**
 Trying to generate word "Hello"
-![img.png](img.png)
+![img.png](result/img.png)
 
 
